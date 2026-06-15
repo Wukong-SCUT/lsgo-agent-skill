@@ -1,0 +1,4 @@
+interface:
+  display_name: "Research to Library"
+  short_description: "Turn a research prototype into a validated reusable library"
+  default_prompt: "Use $research-to-library to turn this research prototype into a validated, documented, independently publishable library."

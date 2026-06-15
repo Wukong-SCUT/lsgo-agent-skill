@@ -1,0 +1,17 @@
+{
+  "research-to-library": {
+    "category": "research-engineering",
+    "maturity": "validated",
+    "version": "1.0.0",
+    "tags": [
+      "baseline",
+      "correctness",
+      "formal-evaluation",
+      "github-release",
+      "packaging",
+      "research-workflow"
+    ],
+    "source": "IPS research and independent library release workflow",
+    "updated": "2026-06-15"
+  }
+}

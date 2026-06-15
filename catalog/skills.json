@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "skills": [
+    {
+      "category": "research-engineering",
+      "default_prompt": "Use $research-to-library to turn this research prototype into a validated, documented, independently publishable library.",
+      "description": "Turn a problem-specific research prototype into a validated, documented, reusable, independently publishable software library. Use for research engineering projects that need baseline measurement, semantic-equivalence gates, phased architecture development, performance diagnostics, experiment reports, generalization beyond one benchmark or algorithm, API freeze, packaging, CI, and GitHub release while preserving a separate full local research environment.",
+      "display_name": "Research to Library",
+      "maturity": "validated",
+      "name": "research-to-library",
+      "path": "skills/research-to-library",
+      "short_description": "Turn a research prototype into a validated reusable library",
+      "source": "IPS research and independent library release workflow",
+      "tags": [
+        "baseline",
+        "correctness",
+        "formal-evaluation",
+        "github-release",
+        "packaging",
+        "research-workflow"
+      ],
+      "updated": "2026-06-15",
+      "version": "1.0.0"
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Skill Name"
+  short_description: "Describe the reusable capability briefly"
+  default_prompt: "Use $skill-name to complete this task."
