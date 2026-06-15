@@ -6,7 +6,7 @@ Category 用于发现和治理，不改变 skill 的平坦目录结构。
 |---|---|---|
 | `research-engineering` | 将研究问题转化为可验证系统与软件产物 | baseline、semantic gates、research-to-library |
 | `experiment-analysis` | 实验设计、统计、诊断和可视化 | scaling、ablation、resource analysis |
-| `optimization-systems` | BBO/MetaBBO/LSGO 特有但可跨算法复用的系统能力 | evaluation budget、parallel optimizer orchestration |
+| `optimization-systems` | 优化与学习系统中可跨算法复用的执行和实验能力 | evaluation budget、parallel optimizer orchestration |
 | `software-engineering` | 通用实现、测试、重构和 package 工作流 | API freeze、conformance、release engineering |
 | `research-communication` | 报告、论文、图表、citation 和成果整理 | technical report、paper evidence matrix |
 | `repository-operations` | GitHub、CI、版本、依赖和自动发布 | repository bootstrap、tag/release |

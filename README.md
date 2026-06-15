@@ -1,4 +1,4 @@
-# LSGO Agent Skills
+# Agent Skills
 
 这是 `Wukong-SCUT` 的私有 Codex skill 库，用于持续沉淀研究开发、实验诊断、软件工程和
 学术发布过程中形成的可复用能力。
