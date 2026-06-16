@@ -1,0 +1,4 @@
+interface:
+  display_name: "MetaBBO Develop"
+  short_description: "MetaBBO agent workflow and diagnostics"
+  default_prompt: "Use $metabbo-develop to plan and iterate this MetaBBO agent development task."

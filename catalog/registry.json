@@ -1,8 +1,22 @@
 {
+  "metabbo-develop": {
+    "category": "optimization-systems",
+    "maturity": "draft",
+    "source": "LCRA-CC allocation and optimization agent development workflow",
+    "tags": [
+      "diagnostics",
+      "experiment-workflow",
+      "metabbo",
+      "optimization-agent",
+      "reinforcement-learning"
+    ],
+    "updated": "2026-06-16",
+    "version": "0.1.0"
+  },
   "research-to-library": {
     "category": "research-engineering",
     "maturity": "validated",
-    "version": "1.0.0",
+    "source": "IPS research and independent library release workflow",
     "tags": [
       "baseline",
       "correctness",
@@ -11,7 +25,7 @@
       "packaging",
       "research-workflow"
     ],
-    "source": "IPS research and independent library release workflow",
-    "updated": "2026-06-15"
+    "updated": "2026-06-15",
+    "version": "1.0.0"
   }
 }

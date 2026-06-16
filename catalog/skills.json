@@ -2,6 +2,26 @@
   "schema_version": 1,
   "skills": [
     {
+      "category": "optimization-systems",
+      "default_prompt": "Use $metabbo-develop to plan and iterate this MetaBBO agent development task.",
+      "description": "Develop and iterate MetaBBO reinforcement-learning optimization agents with explicit mechanism design, reusable project structure, diagnostics, TensorBoard-driven evidence, and dated experiment reports.",
+      "display_name": "MetaBBO Develop",
+      "maturity": "draft",
+      "name": "metabbo-develop",
+      "path": "skills/metabbo-develop",
+      "short_description": "MetaBBO agent workflow and diagnostics",
+      "source": "LCRA-CC allocation and optimization agent development workflow",
+      "tags": [
+        "diagnostics",
+        "experiment-workflow",
+        "metabbo",
+        "optimization-agent",
+        "reinforcement-learning"
+      ],
+      "updated": "2026-06-16",
+      "version": "0.1.0"
+    },
+    {
       "category": "research-engineering",
       "default_prompt": "Use $research-to-library to turn this research prototype into a validated, documented, independently publishable library.",
       "description": "Turn a problem-specific research prototype into a validated, documented, reusable, independently publishable software library. Use for research engineering projects that need baseline measurement, semantic-equivalence gates, phased architecture development, performance diagnostics, experiment reports, generalization beyond one benchmark or algorithm, API freeze, packaging, CI, and GitHub release while preserving a separate full local research environment.",
